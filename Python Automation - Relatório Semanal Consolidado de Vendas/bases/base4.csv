@@ -1,0 +1,135 @@
+Nome do Produto,Sistema,Documento,Transação,Meio de Pagamento,Moeda,Preço do Produto,Número da Parcela,Data de Venda,Status,Cliente,País,Tipo de Pagamento
+Jogo da Vida,Sistema Hash,2233333308,4433727,Online,BRL,230,1,45225,Aprovado,Cliente 1,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,1856927,Online,BRL,230,12,45225,Aprovado,Cliente 2,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,6557777,Online,BRL,230,1,45225,Aprovado,Cliente 3,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,6442945,Online,EUR,230,1,45225,Aprovado,Cliente 7,Portugal,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,9147375,Online,BRL,230,1,45225,Aprovado,Cliente 8,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,2608055,Online,BRL,230,10,45225,Aprovado,Cliente 9,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,5912495,Online,BRL,230,1,45225,Aprovado,Cliente 13,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,9160240,Online,BRL,230,1,45225,Aprovado,Cliente 14,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,9104118,Online,BRL,230,1,45225,Aprovado,Cliente 17,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,7993373,Online,BRL,230,1,45225,Aprovado,Cliente 18,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,5342877,Online,BRL,230,1,45225,Aprovado,Cliente 19,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,6535246,Online,BRL,230,1,45225,Aprovado,Cliente 20,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,7038987,Online,BRL,230,1,45225,Aprovado,Cliente 26,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,9003380,Online,BRL,230,1,45225,Aprovado,Cliente 29,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,6977724,Online,BRL,230,1,45225,Aprovado,Cliente 32,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4060454,Online,BRL,230,1,45225,Aprovado,Cliente 28,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8455766,Online,BRL,230,1,45225,Aprovado,Cliente 45,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,5928307,Online,BRL,230,1,45225,Aprovado,Cliente 48,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4267979,Online,BRL,230,1,45225,Aprovado,Cliente 49,Brasil,Cartão de Crédito
+Dixit,Sistema Hash,2233333308,2850168,Online,BRL,180,1,45225,Aprovado,Cliente 51,Brasil,Pix
+Jogo da Vida,Sistema Hash,2233333308,6137583,Online,BRL,230,1,45225,Aprovado,Cliente 52,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4618169,Online,BRL,230,1,45225,Aprovado,Cliente 54,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,5525936,Online,BRL,230,1,45225,Aprovado,Cliente 57,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8047713,Online,BRL,230,1,45225,Aprovado,Cliente 60,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4622789,Online,BRL,230,1,45225,Aprovado,Cliente 63,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,1136208,Online,BRL,230,1,45225,Aprovado,Cliente 65,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,6778544,Online,BRL,230,1,45225,Aprovado,Cliente 68,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8054333,Online,BRL,230,1,45225,Aprovado,Cliente 74,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,3150227,Online,BRL,230,1,45225,Aprovado,Cliente 76,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,7033364,Online,BRL,230,1,45225,Aprovado,Cliente 77,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,9118397,Online,BRL,230,1,45225,Aprovado,Cliente 81,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4238408,Online,BRL,230,1,45225,Aprovado,Cliente 83,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,2734946,Online,BRL,230,1,45225,Aprovado,Cliente 86,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4243556,Online,BRL,230,1,45225,Aprovado,Cliente 89,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,2259168,Online,BRL,230,1,45225,Aprovado,Cliente 91,Brasil,Cartão de Crédito
+Dixit,Sistema Hash,2233333308,1042047,Online,BRL,180,1,45225,Aprovado,Cliente 93,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,9075972,Online,BRL,230,1,45225,Aprovado,Cliente 94,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8807190,Online,BRL,230,1,45225,Aprovado,Cliente 95,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4258307,Online,BRL,230,1,45225,Aprovado,Cliente 96,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,7516894,Online,BRL,230,1,45225,Aprovado,Cliente 97,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,9248357,Online,BRL,230,1,45225,Aprovado,Cliente 104,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,6370143,Online,BRL,230,1,45225,Aprovado,Cliente 105,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4877604,Online,BRL,230,1,45225,Aprovado,Cliente 108,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8215255,Online,BRL,230,1,45225,Aprovado,Cliente 111,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8141021,Online,BRL,230,1,45225,Aprovado,Cliente 113,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4642626,Online,BRL,230,1,45225,Aprovado,Cliente 116,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,3562877,Online,BRL,230,1,45225,Aprovado,Cliente 118,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,2428471,Online,BRL,230,1,45225,Aprovado,Cliente 120,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8310846,Online,BRL,230,1,45225,Aprovado,Cliente 122,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4287805,Online,BRL,230,1,45225,Aprovado,Cliente 123,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,3699786,Online,BRL,230,1,45225,Aprovado,Cliente 127,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,1215430,Online,BRL,230,1,45225,Aprovado,Cliente 131,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,9051406,Online,BRL,230,1,45225,Aprovado,Cliente 135,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,9261606,Online,BRL,230,1,45225,Aprovado,Cliente 136,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,7597365,Online,BRL,230,1,45225,Aprovado,Cliente 142,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,2562906,Online,BRL,230,1,45225,Aprovado,Cliente 147,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,9347508,Online,BRL,230,1,45225,Aprovado,Cliente 153,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,5869853,Online,BRL,230,1,45225,Aprovado,Cliente 154,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,2813210,Online,BRL,230,1,45225,Aprovado,Cliente 156,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,6380413,Online,BRL,230,1,45225,Aprovado,Cliente 159,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,2081000,Online,BRL,230,1,45225,Aprovado,Cliente 168,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4433153,Online,BRL,230,1,45225,Aprovado,Cliente 169,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,9672011,Online,BRL,230,1,45225,Aprovado,Cliente 180,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,5269565,Online,BRL,230,1,45225,Aprovado,Cliente 189,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4848423,Online,BRL,230,1,45225,Aprovado,Cliente 197,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,9794595,Online,BRL,230,1,45225,Aprovado,Cliente 199,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,2234874,Online,BRL,230,1,45225,Aprovado,Cliente 202,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,1290506,Online,BRL,230,1,45225,Aprovado,Cliente 207,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8653446,Online,BRL,230,1,45225,Aprovado,Cliente 208,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,5623231,Online,BRL,230,1,45225,Aprovado,Cliente 210,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,2294659,Online,BRL,230,1,45225,Aprovado,Cliente 211,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8904221,Online,BRL,230,1,45225,Aprovado,Cliente 217,Brasil,Pix
+Jogo da Vida,Sistema Hash,2233333308,6093594,Online,BRL,230,1,45225,Aprovado,Cliente 221,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,5366653,Online,BRL,230,1,45225,Aprovado,Cliente 225,Brasil,Cartão de Crédito
+Catan,Sistema Hash,2233333308,3902790,Online,BRL,250,12,45225,Aprovado,Cliente 226,Brasil,Cartão de Crédito
+Catan,Sistema Hash,2233333308,8499529,Online,BRL,250,12,45225,Aprovado,Cliente 232,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8680224,Online,BRL,230,1,45225,Aprovado,Cliente 234,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,3780596,Online,BRL,230,1,45225,Aprovado,Cliente 235,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,9754349,Online,BRL,230,1,45225,Aprovado,Cliente 239,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,6177960,Online,BRL,230,1,45225,Aprovado,Cliente 242,Brasil,Cartão de Crédito
+Catan,Sistema Hash,2233333308,4000588,Online,BRL,250,12,45225,Aprovado,Cliente 244,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,5340020,Online,BRL,230,1,45225,Aprovado,Cliente 245,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8467176,Online,BRL,230,6,45225,Aprovado,Cliente 247,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,3536908,Online,BRL,230,1,45225,Aprovado,Cliente 249,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,7029792,Online,BRL,230,12,45225,Aprovado,Cliente 251,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,7394786,Online,BRL,230,12,45225,Aprovado,Cliente 254,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,3233389,Online,BRL,230,12,45225,Aprovado,Cliente 264,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8068055,Online,BRL,230,1,45225,Aprovado,Cliente 265,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,6196643,Online,BRL,230,12,45225,Aprovado,Cliente 268,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4142022,Online,BRL,230,1,45225,Aprovado,Cliente 269,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4898872,Online,BRL,230,1,45225,Aprovado,Cliente 279,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,6793431,Online,BRL,230,12,45225,Aprovado,Cliente 280,Brasil,Cartão de Crédito
+Catan,Sistema Hash,2233333308,1225905,Online,BRL,250,1,45225,Aprovado,Cliente 285,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,7095201,Online,BRL,230,1,45225,Aprovado,Cliente 286,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8946120,Online,BRL,230,1,45225,Aprovado,Cliente 289,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,1035117,Online,BRL,230,1,45225,Aprovado,Cliente 295,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,6866787,Online,BRL,230,1,45225,Aprovado,Cliente 296,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,7123898,Online,BRL,230,1,45225,Aprovado,Cliente 304,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8607134,Online,BRL,230,1,45225,Aprovado,Cliente 308,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,9844908,Online,BRL,230,1,45225,Aprovado,Cliente 310,Brasil,Pix
+Jogo da Vida,Sistema Hash,2233333308,9676756,Online,BRL,230,1,45225,Aprovado,Cliente 311,Brasil,Boleto Bancário
+Jogo da Vida,Sistema Hash,2233333308,1369974,Online,BRL,230,12,45225,Aprovado,Cliente 312,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,1660765,Online,BRL,230,1,45225,Aprovado,Cliente 317,Brasil,Boleto Bancário
+Jogo da Vida,Sistema Hash,2233333308,2341598,Online,BRL,230,1,45225,Aprovado,Cliente 319,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,2129198,Online,BRL,230,12,45225,Aprovado,Cliente 320,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8058751,Online,BRL,230,1,45225,Aprovado,Cliente 321,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,2937691,Online,BRL,230,1,45225,Aprovado,Cliente 326,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,5119736,Online,BRL,230,1,45225,Aprovado,Cliente 337,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,3846221,Online,BRL,230,1,45225,Aprovado,Cliente 341,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,3279221,Online,BRL,230,1,45225,Aprovado,Cliente 344,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,1748033,Online,BRL,230,1,45225,Aprovado,Cliente 347,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,9680449,Online,BRL,230,1,45225,Aprovado,Cliente 348,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,3203001,Online,BRL,230,1,45225,Aprovado,Cliente 356,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,3270580,Online,BRL,230,1,45225,Aprovado,Cliente 359,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,1707806,Online,BRL,230,1,45225,Aprovado,Cliente 360,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4683806,Online,BRL,230,1,45225,Aprovado,Cliente 366,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,7918474,Online,BRL,230,1,45225,Aprovado,Cliente 371,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,6652823,Online,BRL,230,1,45225,Aprovado,Cliente 372,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,3233645,Online,BRL,230,1,45225,Aprovado,Cliente 381,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,5334365,Online,BRL,230,1,45225,Aprovado,Cliente 382,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,7146981,Online,BRL,230,1,45225,Aprovado,Cliente 384,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4712540,Online,BRL,230,1,45225,Aprovado,Cliente 391,Brasil,Pix
+Jogo da Vida,Sistema Hash,2233333308,3106044,Online,BRL,230,1,45225,Aprovado,Cliente 394,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,9792987,Online,BRL,230,1,45225,Aprovado,Cliente 398,Brasil,Pix
+Jogo da Vida,Sistema Hash,2233333308,5242896,Online,BRL,230,1,45225,Aprovado,Cliente 399,Brasil,Cartão de Crédito
+Catan,Sistema Hash,2233333308,5580910,Online,BRL,250,12,45225,Aprovado,Cliente 400,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,1999015,Online,BRL,230,6,45225,Aprovado,Cliente 406,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8061342,Online,BRL,230,1,45225,Aprovado,Cliente 407,Brasil,Boleto Bancário
+Catan,Sistema Hash,2233333308,9150149,Online,BRL,250,12,45225,Aprovado,Cliente 408,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,8653492,Online,BRL,230,12,45225,Aprovado,Cliente 416,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,6585817,Online,BRL,230,1,45225,Aprovado,Cliente 417,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,7736928,Online,BRL,230,1,45225,Aprovado,Cliente 419,Brasil,Cartão de Crédito
+Jogo da Vida,Sistema Hash,2233333308,4450712,Online,BRL,230,1,45225,Aprovado,Cliente 420,Brasil,Cartão de Crédito
+Dixit,Sistema Hash,2233333308,4757608,Online,BRL,180,1,45225,Aprovado,Cliente 421,Brasil,Cartão de Crédito
